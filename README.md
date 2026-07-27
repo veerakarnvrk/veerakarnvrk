@@ -191,16 +191,8 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 ## 🔌 Embedded & IoT
 
 <p align="left">
-## 🔌 Embedded & IoT
-
-<p align="left">
-## 🔌 Embedded & IoT
-
-<p align="left">
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a> 
-
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
-</p>
 </p>
 
 ---
