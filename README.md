@@ -12,6 +12,8 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 * 🚀  I'm currently working on [MyApp](http://myapp.com)
 * 🧠  I'm currently learning Java Spring Boot, C# .Net, Manual & Automated Software Testing
 
+---
+
 ## 💻 Programming Languages
 
 <p align="left">
@@ -25,6 +27,8 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
 </p>
 
+---
+
 ## 🚀 Frameworks & Libraries
 
 <p align="left">
@@ -37,12 +41,16 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
 </p>
 
+---
+
 ## 🎨 Frontend
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
 </p>
+
+---
 
 ## 🗄️ Databases
 
@@ -51,6 +59,8 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
 </p>
+
+---
 
 ## 🛠️ Tools
 
@@ -64,12 +74,16 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 <a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" alt="Squarespace" title="Squarespace" width="36" height="36" /></a>
 </p>
 
+---
+
 ## ☁️ Cloud
 
 <p align="left">
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
 </p>
+
+---
 
 ## 💻 Operating Systems
 
@@ -79,6 +93,8 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 </p>
+
+---
 
 ## 🔌 Embedded & IoT
 
