@@ -1,7 +1,7 @@
-System.out.println("Veerakarn Peerakornworrakitt");
+## System.out.println("Veerakarn Peerakornworrakitt");
 ---
 
-Software Engineer
+## Software Engineer
 ---
 
 Transitioning from a background in Automation and Mechanical Engineering to Full-stack Software Development, I am a Generation Thailand Bootcamp graduate with hands on experience in building web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I have a proven track record in problem solving and system logic within the automation industry, which I now apply to creating efficient, scalable software solutions. I am passionate about bridging the gap between hardware logic and software innovation.
@@ -29,17 +29,17 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
   
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a>
 </p>
 
 ---
