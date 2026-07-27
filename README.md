@@ -156,12 +156,10 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 
 <p align="left">
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" />
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
   
   <a href="https://portal.azure.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
 </p>
 
 ---
