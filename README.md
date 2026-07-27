@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Veerakarn Peerakornworrakitt
+System.out.println("Veerakarn Peerakornworrakitt");
 ---
 
 Software Engineer
@@ -10,7 +10,7 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 * 🖥️  See my portfolio at [vrkdev.framer.ai](http://vrkdev.framer.ai)
 * ✉️  You can contact me at [veerakarn.vrk@gmail.com](mailto:veerakarn.vrk@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://myapp.com)
-* 🧠  I'm currently learning C# .Net & Full-stack Software Development
+* 🧠  I'm currently learning Java Springboot, C# .Net & Full-stack Software Development
 
 ---
 
