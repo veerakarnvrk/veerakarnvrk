@@ -129,6 +129,19 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 </a>
 
 <a href="https://www.linkedin.com/in/veerakarn-vrk" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="36" height="36" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.simpleicons.org/linkedin/FFFFFF" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      alt="LinkedIn"
+      title="LinkedIn"
+      width="36"
+      height="36" />
+  </picture>
 </a>
 </p>
