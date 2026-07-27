@@ -171,10 +171,13 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
 <p align="left">
   <a href="https://apple.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
+  
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" width="36" height="36" /></a>
+  
   <a href="https://www.linux.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+  
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 </p>
@@ -200,10 +203,5 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" title="GitHub" width="36" height="36" /></a>
   
   <a href="https://www.linkedin.com/in/veerakarn-vrk" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="36" height="36" />
-  </picture>
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="36" height="36" /></a>
 </p>
