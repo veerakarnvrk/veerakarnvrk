@@ -92,9 +92,9 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" />
   </a>
   
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.simpleicons.org/windows/0078D4"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
     alt="Windows"
     title="Windows"
     width="36"
