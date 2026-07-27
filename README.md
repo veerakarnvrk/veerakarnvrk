@@ -1,8 +1,10 @@
-## System.out.println("Veerakarn Peerakornworrakitt");
+System.out.println("Veerakarn Peerakornworrakitt");
 
 ---
 
-## Software Engineer
+Software Engineer
+
+---
 
 Transitioning from a background in Automation and Mechanical Engineering to Full-stack Software Development, I am a Generation Thailand Bootcamp graduate with hands on experience in building web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I have a proven track record in problem solving and system logic within the automation industry, which I now apply to creating efficient, scalable software solutions. I am passionate about bridging the gap between hardware logic and software innovation.
 
