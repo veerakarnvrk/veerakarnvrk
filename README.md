@@ -93,8 +93,13 @@ Transitioning from a background in Automation and Mechanical Engineering to Full
   </a>
   
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/windows-colored.svg" alt="Windows" title="Windows" width="36" height="36" />
-  </a>
+  <img
+    src="https://cdn.simpleicons.org/windows/0078D4"
+    alt="Windows"
+    title="Windows"
+    width="36"
+    height="36" />
+</a>
   
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
