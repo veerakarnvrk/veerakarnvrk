@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Veerakarn P.
 ==================================================================================================================================
 
-## Software Engineer (Java Spring Boot, C# .Net, Full-stack)
+## Software Engineer (Java Spring Boot, C# .Net, Full-Stack)
 
 I'm transitioning from a background in Automation and Mechanical Engineering to Full-stack Software Development, I am a Generation Thailand Bootcamp graduate with hands on experience in building web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I have a proven track record in problem solving and system logic within the automation industry, which I now apply to creating efficient, scalable software solutions. I am passionate about bridging the gap between hardware logic and software innovation.
 
