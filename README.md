@@ -9,7 +9,7 @@ I'm transitioning from a background in Automation and Mechanical Engineering to 
 * 🖥️  See my portfolio at [vrkdev.framer.ai](http://vrkdev.framer.ai)
 * ✉️  You can contact me at [veerakarn.vrk@gmail.com](mailto:veerakarn.vrk@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://myapp.com)
-* 🧠  I'm currently learning Java Springboot, C# .Net & Full-stack Software Development
+* 🧠  I'm currently learning Java Spring Boot, C# .Net & Full-Stack Software Development
 
 ---
 
