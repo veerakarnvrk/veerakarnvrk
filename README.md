@@ -8,7 +8,7 @@ I'm transitioning from a background in Automation and Mechanical Engineering to 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [veerakarn-work.vercel.app](http://veerakarn-work.vercel.app)
 * ✉️  You can contact me at [veerakarn.vrk@gmail.com](mailto:veerakarn.vrk@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://myapp.com)
+* 🚀  I'm currently working on [Voltbike EV](http://voltbike-ev.vercel.app)
 * 🧠  I'm currently learning Java Spring Boot, C# .Net & Full-Stack Software Development
 
 ---
