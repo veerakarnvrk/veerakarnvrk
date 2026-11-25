@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm transitioning from a background in Automation and Mechanical Engineering to Full-stack Software Development, I am a Generation Thailand Bootcamp graduate with hands on experience in building web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I have a proven track record in problem solving and system logic within the automation industry, which I now apply to creating efficient, scalable software solutions. I am passionate about bridging the gap between hardware logic and software innovation.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [veerakarn-work.vercel.app](http://veerakarn-work.vercel.app)
+* 🖥️  See my portfolio at [Portfolio](http://veerakarn-work.vercel.app)
 * ✉️  You can contact me at [veerakarn.vrk@gmail.com](mailto:veerakarn.vrk@gmail.com)
-* 🚀  I'm currently working on [Voltbike EV](http://volt-bike-ev.vercel.app)
+* 🚀  I'm currently working on [VOLTBike EV](http://volt-bike-ev.vercel.app)
 * 🧠  I'm currently learning Java Spring Boot, C# .Net & Full-Stack Software Development
 
 ---
